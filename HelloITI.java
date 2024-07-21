@@ -5,4 +5,8 @@ public class HelloITI {
 	System.out.print("Hello ITI");
 	
 	}
+	
+	public void printHelloGit(){
+		System.out.print("Hello GIT");
+	}
 }
