@@ -11,7 +11,5 @@ public class HelloITI {
 		
 	}
 	
-	public void printHelloGit(){
-		System.out.print("Hello GIT");
-	}
+	
 }
